@@ -30,7 +30,7 @@ An intelligent educational platform that leverages AI to enhance learning experi
 - **FastAPI** - Modern Python web framework
 - **Python** - Core programming language
 - **Firecrawl** - Web scraping service
-- **LLM Integration** - AI/ML capabilities
+- **Ollama** - LLM integration(phi-3 model)
 - **RAG (Retrieval-Augmented Generation)** - Advanced AI responses
 
 ### Frontend
