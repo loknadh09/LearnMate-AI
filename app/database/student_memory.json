@@ -1,0 +1,213 @@
+{
+  "student_1": {
+    "student_id": "student_1",
+    "topics_covered": [
+      "hi",
+      "what is string",
+      "DSA",
+      "physics",
+      "what is gen ai",
+      "what is rag",
+      "what is RAG",
+      "what is newtons 3rd law of motion",
+      "what is law of thermodynamics",
+      "law of thermodynamics states that",
+      "law of  thermodynamics",
+      "what is anatomy",
+      "what is the formula of calcium carbonate",
+      "what is viscosity",
+      "okk what is data structure",
+      "what is binary search and its time complexity to search a va",
+      "Data Structure",
+      "Chemistry"
+    ],
+    "mistakes": [
+      {
+        "topic": "physics",
+        "question": "What is a key concept in physics?",
+        "wrong_answer": "Option C",
+        "correct_answer": "Option A",
+        "timestamp": "2026-04-29T20:28:25.385027"
+      },
+      {
+        "topic": "physics",
+        "question": "What is a key concept in physics?",
+        "wrong_answer": "Option B",
+        "correct_answer": "Option A",
+        "timestamp": "2026-04-29T20:28:25.385052"
+      }
+    ],
+    "quiz_scores": [
+      {
+        "topic": "physics",
+        "score": 1,
+        "total": 3,
+        "percentage": 33.3,
+        "timestamp": "2026-04-29T20:28:25.385655"
+      },
+      {
+        "topic": "physics",
+        "score": 2,
+        "total": 2,
+        "percentage": 100.0,
+        "timestamp": "2026-04-30T04:48:10.257375"
+      },
+      {
+        "topic": "Data Structure",
+        "score": 1,
+        "total": 1,
+        "percentage": 100.0,
+        "timestamp": "2026-04-30T04:52:17.465298"
+      },
+      {
+        "topic": "Chemistry",
+        "score": 1,
+        "total": 1,
+        "percentage": 100.0,
+        "timestamp": "2026-04-30T04:53:32.169517"
+      }
+    ],
+    "learning_style": "balanced",
+    "total_questions_asked": 24,
+    "sessions": [],
+    "last_active": "2026-04-30T04:51:21.775277"
+  },
+  "student01": {
+    "student_id": "student01",
+    "topics_covered": [
+      "hi",
+      "DSA"
+    ],
+    "mistakes": [],
+    "quiz_scores": [],
+    "learning_style": "balanced",
+    "total_questions_asked": 2,
+    "sessions": [],
+    "last_active": "2026-04-29T18:46:02.848135"
+  },
+  "default": {
+    "student_id": "default",
+    "topics_covered": [
+      "programming",
+      "python"
+    ],
+    "mistakes": [],
+    "quiz_scores": [],
+    "learning_style": "balanced",
+    "total_questions_asked": 2,
+    "sessions": [],
+    "last_active": "2026-04-29T19:15:47.245621"
+  },
+  "test": {
+    "student_id": "test",
+    "topics_covered": [
+      "Programming",
+      "Python Functions",
+      "Python Lists"
+    ],
+    "mistakes": [],
+    "quiz_scores": [],
+    "learning_style": "balanced",
+    "total_questions_asked": 1,
+    "sessions": [],
+    "last_active": "2026-04-29T19:26:43.968014"
+  },
+  "AP23110010629": {
+    "student_id": "AP23110010629",
+    "topics_covered": [
+      "HI",
+      "what is Dijkstras algorithm",
+      "DBSCAN-with-Parameter-Optimization.pdf",
+      "physics",
+      "can u give formula for bayes theorem",
+      "what is speed",
+      "what is a string",
+      "okk what is array",
+      "what is RAG",
+      "what is GAN",
+      "What is LLM",
+      "Latent space",
+      "Classification Metrics_Example.pdf",
+      "What is GAN"
+    ],
+    "mistakes": [],
+    "quiz_scores": [
+      {
+        "topic": "PDF: Classification Metrics_Example.pdf",
+        "score": 1,
+        "total": 1,
+        "percentage": 100.0,
+        "timestamp": "2026-04-30T08:50:51.632540"
+      }
+    ],
+    "learning_style": "balanced",
+    "total_questions_asked": 12,
+    "sessions": [],
+    "last_active": "2026-04-30T09:11:10.058867"
+  },
+  "AP231100106969": {
+    "student_id": "AP231100106969",
+    "topics_covered": [
+      "formula for bayes theorem"
+    ],
+    "mistakes": [],
+    "quiz_scores": [],
+    "learning_style": "balanced",
+    "total_questions_asked": 1,
+    "sessions": [],
+    "last_active": "2026-04-30T05:45:31.862863"
+  },
+  "AP23110016969": {
+    "student_id": "AP23110016969",
+    "topics_covered": [
+      "What is RAG",
+      "Gen AI",
+      "physics",
+      "DBSCAN-with-Parameter-Optimization.pdf",
+      "what is machine learning",
+      "okk what is deep learning",
+      "okk define newtons 3rd law",
+      "Machine Learning",
+      "what is RAG",
+      "wait RAG in Gen AI"
+    ],
+    "mistakes": [],
+    "quiz_scores": [
+      {
+        "topic": "PDF: DBSCAN-with-Parameter-Optimization.pdf",
+        "score": 1,
+        "total": 1,
+        "percentage": 100.0,
+        "timestamp": "2026-04-30T05:52:23.690933"
+      }
+    ],
+    "learning_style": "balanced",
+    "total_questions_asked": 8,
+    "sessions": [],
+    "last_active": "2026-04-30T06:02:26.422641"
+  },
+  "AP23110010938": {
+    "student_id": "AP23110010938",
+    "topics_covered": [
+      "what is LLM"
+    ],
+    "mistakes": [],
+    "quiz_scores": [],
+    "learning_style": "balanced",
+    "total_questions_asked": 1,
+    "sessions": [],
+    "last_active": "2026-04-30T07:39:02.858348"
+  },
+  "AP23110010799": {
+    "student_id": "AP23110010799",
+    "topics_covered": [
+      "WHAT is llm"
+    ],
+    "mistakes": [],
+    "quiz_scores": [],
+    "learning_style": "balanced",
+    "total_questions_asked": 1,
+    "sessions": [],
+    "last_active": "2026-04-30T07:39:05.609750"
+  }
+}
