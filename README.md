@@ -32,6 +32,7 @@ An intelligent educational platform that leverages AI to enhance learning experi
 - **Firecrawl** - Web scraping service
 - **Ollama** - LLM integration(phi-3 model)
 - **RAG (Retrieval-Augmented Generation)** - Advanced AI responses
+- FAISS-open-source library for efficient similarity search and clustering of dense vectors
 
 ### Frontend
 - **React** - Modern JavaScript library
